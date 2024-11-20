@@ -6,4 +6,7 @@ Pancreatic ductal adenocarcinoma (PDAC) boasts a dismal five-year survival rate 
 GEO accession number GSE281518
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE281518
 ## Proteomics Data repository
-Harvard Dataverse (https://doi.org/10.7910/DVN/DQ69F2)
+The dataset is public available in the following databases
+1. iProX: https://www.iprox.cn/page/project.html?id=IPX0010120000
+2. ProteomeXchange website: https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD058067
+
